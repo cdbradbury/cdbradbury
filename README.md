@@ -56,6 +56,6 @@ I am currently working towards obtaining these certifications
 </div>
 
 ## Projects
-- [IoT Project - Find the Flag in Firmware](https://github.com/cdbradbury/cdbradbury/compare/main...cdbradbury-IoT-project?expand=1#diff-69f18bfeb4aae2aa1b3056f17102dba0f76a5152d611c1af2a6168ba25e0c7a3) 
+- [IoT Project - Find the Flag in Firmware](https://github.com/cdbradbury/Find-the-Flag-in-Firmware) 
 - Detection Lab (in-progress)
 - SOC Automation Project (in-progress) 
